@@ -25,7 +25,7 @@ Este proyecto se ha desarrollado utilizando el JDK 17.0.7. Asegúrate de tener e
 1. **Descarga del Repositorio**: Clona o descarga este repositorio en tu máquina local.
 
     ```bash
-    git clone https://github.com/tu-usuario/calculadora-postfix.git
+    git clone https://github.com/tu-usuario/calculadora-postfix.git](https://github.com/dpatzan2/Hoja-de-trabajo-2.git
     ```
 
 2. **Configuración de JDK**: Verifica que tienes instalado el JDK 17.0.7.
